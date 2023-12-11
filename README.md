@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi, I'm Abdullah Bozlağan</h1>
 <h3 align="center">A computer engineer from Turkey</h3>
+
 Combining solid theoretical knowledge gained during my education with practical experiences, I have developed the ability to lead projects and devise innovative solutions to various challenges. I possess a strong knowledge base in fundamental areas such as software development, algorithms, data structures, and database management.
 
 My proficiency in various programming languages, particularly Java, Python,supports my effective collaboration in large-scale projects. Together with my experience in software life cycle management, I ensure the successful completion of projects by collaborating within the team, communicating effectively, and providing leadership.
