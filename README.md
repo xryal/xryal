@@ -11,7 +11,7 @@ By closely monitoring technological advancements, I take a pioneering role in pr
 
 - 🔭 I’m currently working on **SAP ABAP**
 
-- 🌱 I’m currently learning **ASP.NET MVC**
+- 🌱 I’m currently learning **SAP ABAP**
 
 - 📫 How to reach me **abdullahbo38@gmail.com**
 
