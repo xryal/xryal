@@ -9,7 +9,7 @@ My proficiency in various programming languages, particularly Java, Python,suppo
 By closely monitoring technological advancements, I take a pioneering role in projects with my desire and ability to offer innovative solutions. With my analytical thinking and problem-solving skills, I am a reliable expert in understanding complex issues and producing effective solutions.
 
 
-- 🔭 I’m currently working on **Algoritms**
+- 🔭 I’m currently working on **SAP ABAP**
 
 - 🌱 I’m currently learning **ASP.NET MVC**
 
