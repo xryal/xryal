@@ -15,7 +15,7 @@ By closely monitoring technological advancements, I take a pioneering role in pr
 
 - 📫 How to reach me **abdullahbo38@gmail.com**
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xryal&label=Profile%20views&color=0e75b6&style=flat" alt="xryal" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
