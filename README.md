@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Abdullah Bozlağan</h1>
-<h3 align="center">A computer engineer</h3>
+<h3 align="center">Computer Engineer</h3>
 
 Combining solid theoretical knowledge gained during my education with practical experiences, I have developed the ability to lead projects and devise innovative solutions to various challenges. I possess a strong knowledge base in fundamental areas such as software development, algorithms, data structures, and database management.
 
