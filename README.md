@@ -2,13 +2,6 @@
 <h1 align="center">Hi, I'm Abdullah Bozlağan</h1>
 <h3 align="center">Computer Engineer</h3>
 
-Combining solid theoretical knowledge gained during my education with practical experiences, I have developed the ability to lead projects and devise innovative solutions to various challenges. I possess a strong knowledge base in fundamental areas such as software development, algorithms, data structures, and database management.
-
-My proficiency in various programming languages, particularly Java, supports my effective collaboration in large-scale projects. Together with my experience in software life cycle management, I ensure the successful completion of projects by collaborating within the team, communicating effectively, and providing leadership.
-
-By closely monitoring technological advancements, I take a pioneering role in projects with my desire and ability to offer innovative solutions. With my analytical thinking and problem-solving skills, I am a reliable expert in understanding complex issues and producing effective solutions.
-
-
 - 🔭 I’m currently working on **SAP ABAP**
 
 - 🌱 I’m currently learning **SAP ABAP**
